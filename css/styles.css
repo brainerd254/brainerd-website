@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
+image{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+    position: relative;
+}
+/* .logo{
+    float: left;
+} */
+.menu-bar{
+    color: white;
+    float: right;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-flex;
+    font-size: 30px;
+    margin-right: 40px;
+}
