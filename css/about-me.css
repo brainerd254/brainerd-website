@@ -1,14 +1,23 @@
 body{
     /* margin: 0px; */
-    background-color: #181818 ;
+    background-color: white ;
     color:purple;
 }
-image{
+img{
     margin: 0;
-    padding: 0;
+    padding-left: 30px;
+    padding-top: 100px;
+    float: left;
+}
+.float{
+    float: right;
+}
+p{
+    color: black;
+    padding-top: 5px;
 }
 h1{
-    color: white;
+    color: red;
     position: relative;
 }
 /* .logo{
